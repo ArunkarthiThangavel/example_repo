@@ -1,1 +1,3 @@
 stashing txt
+this is string stored in 1
+hi
